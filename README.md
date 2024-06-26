@@ -14,6 +14,7 @@ Instrucciones:
  
  uvicorn presentation.main2:app --reload
  
+Or
 
  Docker :
  
